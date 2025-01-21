@@ -1,2 +1,1 @@
-This website wil consist of a main index page which will have links to a few recipes. I'll be demonstarting how to structure a webpage using different elements such as <p><h1><img><ul><ol>
-I'll also be commiting the process on to Github, as i'll be able to track my progress and make any relevant modifications along the way.
+This website wil consist of a main index page which will have links to a few recipes. I'll be demonstarting how to structure a webpage using different elements such as <p><h1><img><ul><ol> I'll also be commiting the process on to Github, as i'll be able to track my progress and make any relevant modifications along the way.

@@ -1,0 +1,29 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(237, 212, 161);}
+
+
+    
+
+    .title,.description {box-sizing: border-box;
+        text-align: center;
+        padding: 5px;
+        
+    }
+
+    .highlight {color: green;}
+
+    #paragraph {box-sizing: border-box; padding: 10px;}
+
+    .subtitle {box-sizing: border-box; padding: 10px; }
+
+    #ingredients{box-sizing: border-box; padding: 15px; margin: 10px;}
+
+    #steps{box-sizing: border-box; padding: 15px; margin: 10px; }
+
+    .picture {height: auto; 
+        width: 500px;
+        display: block; 
+        margin: auto;}
+
+        .list{font-size: large;}
